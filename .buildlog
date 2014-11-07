@@ -1,0 +1,655 @@
+---
+build.dart --machine --full
+
+build.dart finished [1270 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1645 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1266 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1378 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1252 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1269 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1361 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1302 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1458 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1349 ms]
+
+---
+build.dart --machine --changed=bin/test.dart
+
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=bin/test.dart --changed=lib/color.dart --changed=lib/geo_pattern.dart
+
+build.dart finished [1288 ms]
+
+---
+build.dart --machine --changed=bin/test.dart
+
+build.dart finished [1339 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1485 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1251 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1246 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1343 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1882 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1479 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1355 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1410 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1376 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1261 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1377 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1346 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1311 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1317 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1454 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1445 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1434 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1416 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1350 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1306 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1262 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1286 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1445 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1349 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1463 ms]
+
+---
+build.dart --machine --changed=test/color_test.dart
+
+build.dart finished [1415 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1294 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1476 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1413 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1431 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1401 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1363 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1332 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1365 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1463 ms]
+
+---
+build.dart --machine --changed=lib/color.dart
+
+build.dart finished [1439 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1299 ms]
+
+---
+build.dart --machine --removed=lib/color.dart
+
+build.dart finished [1269 ms]
+
+---
+build.dart --machine --removed=test/color_test.dart
+
+build.dart finished [1240 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1202 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1295 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1297 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1301 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1204 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1257 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1224 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1280 ms]
+
+---
+build.dart --machine --removed=web/clickcounter.dart --removed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"geo_pattern\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":10,"charStart":208,"charEnd":252}}]
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"custom element with name \"click-counter\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":20,"charStart":438,"charEnd":463}}]
+build.dart finished [1188 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"geo_pattern\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":10,"charStart":208,"charEnd":252}}]
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"custom element with name \"click-counter\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":20,"charStart":438,"charEnd":463}}]
+build.dart finished [1198 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"geo_pattern\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":10,"charStart":208,"charEnd":252}}]
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"custom element with name \"click-counter\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":20,"charStart":438,"charEnd":463}}]
+build.dart finished [1224 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"geo_pattern\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":10,"charStart":208,"charEnd":252}}]
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"custom element with name \"click-counter\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":20,"charStart":438,"charEnd":463}}]
+build.dart finished [1186 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"geo_pattern\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":10,"charStart":208,"charEnd":252}}]
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"custom element with name \"click-counter\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":20,"charStart":438,"charEnd":463}}]
+build.dart finished [1202 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"geo_pattern\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":10,"charStart":208,"charEnd":252}}]
+[{"method":"warning","params":{"file":"web/geo_pattern.html","message":"custom element with name \"click-counter\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":20,"charStart":438,"charEnd":463}}]
+build.dart finished [1193 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.html
+
+build.dart finished [1165 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.html
+
+build.dart finished [1400 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1220 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1190 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1179 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1180 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1260 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1168 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1218 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1336 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1359 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1366 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+
+build.dart finished [1180 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1178 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1153 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1449 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1317 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1203 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1237 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1247 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1423 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1188 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1223 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1235 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1320 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1469 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1262 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+
+build.dart finished [1217 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.css
+
+build.dart finished [1348 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+
+build.dart finished [1432 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+
+build.dart finished [1211 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+
+build.dart finished [1310 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1875 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart
+
+build.dart finished [1183 ms]
+
+---
+build.dart --machine --changed=web/geo_pattern.dart
+
+build.dart finished [1600 ms]
+
+---
+build.dart --machine --changed=lib/geo_pattern.dart --changed=pubspec.lock --changed=pubspec.yaml --changed=web...
+[{"method":"info","params":{"message":"Took 0.2s (0.0s awaiting secondary inputs)."}}]
+build.dart finished [2401 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1344 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Unhandled exception:
+Uncaught Error: FileSystemException: Cannot open file, path = '/Users/justin/Documents/Projects/geo_pattern/packages/polymer/default_build.dart' (OS Error: No such file or directory, errno = 2)
+Stack Trace:
+#0      _File.open.<anonymous closure> (dart:io/file_impl.dart:349)
+#1      _RootZone.runUnary (dart:async/zone.dart:1155)
+#2      _Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:484)
+#3      _Future._propagateToListeners (dart:async/future_impl.dart:567)
+#4      _Future._completeWithValue (dart:async/future_impl.dart:358)
+#5      _Future._asyncComplete.<anonymous closure> (dart:async/future_impl.dart:412)
+#6      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:41)
+#7      _asyncRunCallback (dart:async/schedule_microtask.dart:48)
+#8      _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:84)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:131)
+
+#0      _rootHandleUncaughtError.<anonymous closure> (dart:async/zone.dart:886)
+#1      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:41)
+#2      _asyncRunCallback (dart:async/schedule_microtask.dart:48)
+#3      _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:84)
+#4      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:131)
+build.dart finished [57 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Unhandled exception:
+Uncaught Error: FileSystemException: Cannot open file, path = '/Users/justin/Documents/Projects/geo_pattern/packages/polymer/default_build.dart' (OS Error: No such file or directory, errno = 2)
+Stack Trace:
+#0      _File.open.<anonymous closure> (dart:io/file_impl.dart:349)
+#1      _RootZone.runUnary (dart:async/zone.dart:1155)
+#2      _Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:484)
+#3      _Future._propagateToListeners (dart:async/future_impl.dart:567)
+#4      _Future._completeWithValue (dart:async/future_impl.dart:358)
+#5      _Future._asyncComplete.<anonymous closure> (dart:async/future_impl.dart:412)
+#6      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:41)
+#7      _asyncRunCallback (dart:async/schedule_microtask.dart:48)
+#8      _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:84)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:131)
+
+#0      _rootHandleUncaughtError.<anonymous closure> (dart:async/zone.dart:886)
+#1      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:41)
+#2      _asyncRunCallback (dart:async/schedule_microtask.dart:48)
+#3      _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:84)
+#4      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:131)
+build.dart finished [59 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Unhandled exception:
+Uncaught Error: FileSystemException: Cannot open file, path = '/Users/justin/Documents/Projects/geo_pattern/packages/polymer/default_build.dart' (OS Error: No such file or directory, errno = 2)
+Stack Trace:
+#0      _File.open.<anonymous closure> (dart:io/file_impl.dart:349)
+#1      _RootZone.runUnary (dart:async/zone.dart:1155)
+#2      _Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:484)
+#3      _Future._propagateToListeners (dart:async/future_impl.dart:567)
+#4      _Future._completeWithValue (dart:async/future_impl.dart:358)
+#5      _Future._asyncComplete.<anonymous closure> (dart:async/future_impl.dart:412)
+#6      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:41)
+#7      _asyncRunCallback (dart:async/schedule_microtask.dart:48)
+#8      _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:84)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:131)
+
+#0      _rootHandleUncaughtError.<anonymous closure> (dart:async/zone.dart:886)
+#1      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:41)
+#2      _asyncRunCallback (dart:async/schedule_microtask.dart:48)
+#3      _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:84)
+#4      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:131)
+build.dart finished [59 ms]
+
